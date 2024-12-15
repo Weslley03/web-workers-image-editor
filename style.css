@@ -1,0 +1,16 @@
+body {
+  display: grid;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+canvas {
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px;
+}
